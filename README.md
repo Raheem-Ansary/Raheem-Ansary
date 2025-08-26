@@ -7,7 +7,7 @@
 - 💻 Passionate about **DevOps, CI/CD, and Cloud Automation**
 - 🐍 Love coding with **Python, Bash, C/C++, and Rust**
 - ⚡ Enjoy optimizing workflows, building scalable infra, and contributing to open-source
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **raheem.annsary@gmail.com**
 
 ---
 
