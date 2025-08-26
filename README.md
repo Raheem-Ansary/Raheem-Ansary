@@ -1,16 +1,52 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Raheem Ansary</h1>
+<h3 align="center">DevOps Engineer | Automation Enthusiast | Open Source Contributor</h3>
 
-<!--
-**Raheem-Ansary/Raheem-Ansary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 💻 Passionate about **DevOps, CI/CD, and Cloud Automation**
+- 🐍 Love coding with **Python, Bash, C/C++, and Rust**
+- ⚡ Enjoy optimizing workflows, building scalable infra, and contributing to open-source
+- 📫 Reach me at: **your-email@example.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Languages & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,bash,cpp,rust,docker,kubernetes,git,linux,ansible,terraform,aws" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Raheem-Ansary&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raheem-Ansary&theme=tokyonight" alt="streak" />
+</p>
+
+---
+
+### 🔥 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raheem-Ansary&layout=compact&theme=tokyonight" alt="langs" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/Raheem-Ansary/Raheem-Ansary/blob/output/github-contribution-grid-snake.svg" alt="snake" />
+</p>
+
+---
+
+### ⌨️ Fun Typing Animation
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F720&center=true&vCenter=true&width=435&lines=DevOps+Engineer;Python%2C+Bash%2C+C%2FC%2B%2B%2C+Rust;Cloud+%26+Automation;Always+Learning+%26+Building" alt="Typing SVG" />
+  </a>
+</p>
+
+---
+
+⭐️ From [Raheem-Ansary](https://github.com/Raheem-Ansary)
